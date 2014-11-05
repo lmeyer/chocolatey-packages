@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>supraball</id>
+    <title>supraball</title>
+    <version>0.2.10.1</version>
+    <authors>Ludovic Meyer</authors>
+    <owners>Supra Games UG</owners>
+    <summary>A new eSport!</summary>
+    <description>Supraball is a mix of first person shooters and football. A genre which we call FPSG – First Person Sports Game.</description>
+    <projectUrl>http://supraball.net/</projectUrl>
+    <tags>game,unreal,football,fps</tags>
+    <copyright></copyright>
+    <licenseUrl>http://supraball.net/</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+
+    <iconUrl>http://supraball.net/wp-content/themes/supraball/img/logo.png</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
